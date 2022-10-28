@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BobJackson
+- 👀 I’m interested in software design, full stack developing, functional programming, test-driven develop.
+- 🌱 I’m currently learning functional programming and mirco services.
+- 💞️ I’m looking to collaborate on interesting projects.
+- 📫 How to reach me ? You can find my email address on homepage.
